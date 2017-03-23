@@ -5,6 +5,6 @@
 4 查看状态  git status
 5 查看不同  git diff
 6 提交修改和提交新文件是一样的 git add  <file>
-7 版本回退
+7 查看提交的版本 git log
 
 ?>
