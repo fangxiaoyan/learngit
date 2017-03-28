@@ -12,5 +12,5 @@ git config user.email ="";
 8 版本列表 git log --pretty=oneline
 
 单词 ：branch 分支  stage 上演显示 tracked 追踪  pretty完美 directory仓库 
-啊啊啊
+
 ?>
