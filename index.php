@@ -11,7 +11,7 @@ git config user.email ="";
 7 查看提交的版本 git log
 8 版本列表 git log --pretty=oneline
 9 撤销工作去的修改，（让文件恢复到最近一次 git add 和 git commit的状态）git checkout --<file>
-
+10 测试
 单词 ：branch 分支  stage 上演显示 tracked 追踪  pretty完美 directory仓库 
 
 ?>
